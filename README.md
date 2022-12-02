@@ -105,7 +105,8 @@ If you would like to learn web development and get a job in the tech industry, y
 - Adding Events to DOM Elements
 - Working with Form Elements
 - Timers in JavaScript
-- 
+
+
 ## JavaScript Advanced
 
 - Debugging in JavaScript
@@ -115,7 +116,6 @@ If you would like to learn web development and get a job in the tech industry, y
 - Working with Modern JavaScript
 - Making Use Of Use Strict
 - JavaScript Bad Practices
-- JavaScript Regular Expressions
 
 
 
