@@ -149,6 +149,88 @@ If you would like to learn web development and get a job in the tech industry, y
 - Object entries
 - JavaScript Modules
 
-## React
+## ReactJS getting Started
+- what is react 
+- Goals
+- Structure
+- Dev Environment Setup
+- Text Editor Setup
+- Command Line Basics
+- NPM Basics
+- What is Create-react-app, Babel, Webpack
+- Install Create-react-app
+- Folder Structure
 
-- 
+## React JS Fundamentals
+- First Component
+- Text Editor Setup
+- First Component in Detail
+- JSX Rules
+- Nested Components and Tools
+- Mini Book Project
+- JSX - CSS
+- JSX - Javascript
+- Props
+- Props - Destructuring
+- Props - Children
+- Simple List
+- Proper List
+- Key Prop and Spread Operator
+- Event Basics
+- Import and Export Statements
+- Free Hosting
+
+## React Hooks and Advanced Topics
+
+- Intro
+- Starter Project
+- Install Starter
+- Starter Overview
+- useState - Simple Use Case
+- useState - Basics
+- General Rules of Hooks
+- useState - Array Example
+- useState - Object Example
+- useState - Multiple State Values
+- Simple Counter
+- Functional Update Form
+- Matching Project
+- useEffect - Basics
+- useEffect - Conditional
+- useEffect - Dependency List
+- useEffect - Cleanup Function
+- useEffect - Fetch Data
+- Multiple Returns - Basics
+- Multiple Returns - Fetching Example
+- Short-Circuit Evaluation
+- Ternary Operator
+- Show/Hide Component
+- Matching Projects
+- Form Basics
+- Controlled Inputs
+- Add Item to the List
+- Multiple Inputs
+- Matching Projects
+- useRef
+- Matching Project
+- useReducer - useState Setup
+- useReducer - Refactor
+- useReducer - Add Item
+- useReducer - Remove Item
+- Prop Drilling
+- Context API / useContext
+- Matching Projects
+- Custom Hooks - useFetch
+## Basic Projects
+- Birthday Reminder
+- Tours 
+- Reviews
+- Menu
+- Slider
+- Grocery Bud
+## Big Projects
+- Cocktails 
+- E-commerce
+- Movies Data Base
+
+
