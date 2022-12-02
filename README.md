@@ -26,6 +26,7 @@ If you would like to learn web development and get a job in the tech industry, y
   - HTML5 Lists
   - Working with Images
   - Tables in HTML5
+  - small project
   
 ## HTML5-Forms 
 
@@ -52,7 +53,7 @@ If you would like to learn web development and get a job in the tech industry, y
  - Building Page Footer
  - Adding Copyright
 
-## CSS & CSS3 -Fundamentals 
+## CSS & CSS3 - Fundamentals 
 
 - Internal CSS
 - External CSS
@@ -149,3 +150,5 @@ If you would like to learn web development and get a job in the tech industry, y
 - JavaScript Modules
 
 ## React
+
+- 
