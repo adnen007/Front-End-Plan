@@ -13,6 +13,7 @@ If you would like to learn web development and get a job in the tech industry, y
  - Hello World
   
 ## HTML5 - Tags 
+
   - Document Structure 
   - HTML5 Basics
   - Headings & Paragraphs
@@ -74,5 +75,45 @@ If you would like to learn web development and get a job in the tech industry, y
 - Making Content Holder
 - Creating Sidebar
 - Making Footer
+
+## JavaScript Fundamentals
+- Variables in JavaScript
+- Conditions in JavaScript
+- Operators in JavaScript
+- Working with Browser Console
+- Loops in JavaScript
+- Functions in JavaScript
+- Creating Custom Loops with Functions
+
+## JavaScript - Data Types
+
+- Working with Arrays
+- Numbers in JavaScript
+- Strings in JavaScript
+- Working with Dates Object
+- Objects in JavaScript
+
+## JavaSript DOM - Document Object Model
+
+- DOM in JavaScript
+- Element Node Types
+- Working with DOM Elements
+- Changing Contents of DOM
+- Creating New Elements with JavaScript
+- Adding Events to DOM Elements
+- Working with Form Elements
+- Timers in JavaScript
+- 
+## JavaScript Advanced
+
+- Debugging in JavaScript
+- Creating Modern Live Validation Forms
+- Minify & Validate JavaScript
+- Using JavaScript Libraries
+- Working with Modern JavaScript
+- Making Use Of Use Strict
+- JavaScript Bad Practices
+- JavaScript Regular Expressions
+
 
 
