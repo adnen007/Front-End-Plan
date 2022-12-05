@@ -7,7 +7,7 @@ Do you want to learn web development and get a job in the tech industry ? Do you
  - Anyone who is interested to learn Front-End Web development from Scratch
  - Anyone who wants to start career in web development
  
-# Front-End-Plan (5 months )
+# Front-End-Plan (5 months || 175h )
 
 ## HTML5 & CSS3 - getting started
  - Introduction
