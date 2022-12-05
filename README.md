@@ -8,77 +8,55 @@ Do you want to learn web development and get a job in the tech industry ? Do you
  - Anyone who wants to start career in web development
  
 # Front-End-Plan (5 months || 175h )
+## HTML
 
-## HTML5 & CSS3 - getting started
- - Introduction
- - what you will need 
- - install VS Code (Code Editor)
- - Hello World
-  
-## HTML5 - Tags 
+- Elements && Browser
+- First Page
+- Doctype And Standard And Quirks Mode
+- Head && Nested Elements
+- Comments 
+- Headings And Use Cases
+- Paragraph Element
+- Elements Attributes
+- Formatting Elements
+- Links – Anchor Tag
+- Image And Deal With Path
+- Lists – UL, OL, DL
+- Table
+- Div and How To Use
+- Span && Break 
+- HTML Entities
+- Semantic Elements
+- Layout With Div And Classes
+- Layout With Semantic Elements
+- Audio
+- Video
+- Form Input Types And Label
+- Form Required, Placeholder, Value
+- Form Action, Name, Method
+- iFrame, Pre, Code
 
-  - Document Structure 
-  - HTML5 Basics
-  - Headings & Paragraphs
-  - Text Formatting
-  - Links in HTML5
-  - HTML5 Nested Links
-  - HTML5 Lists
-  - Working with Images
-  - Tables in HTML5
-  - small project
-  
-## HTML5-Forms 
+## CSS
 
-- Forms in HTML5
-- Creating a Contact Form
-- Creating a Login Form
-- Creating a Registration Form
-
-## HTML5 - Media
-
- - Grouping Elements
- - HTML5 Media Tags
- - IFrames in HTML5
- - Figure Tag in HTML5
- - Collapse Elements with Details Tag
- 
-## HTML5 - Website Structure
-
- - Creating The Header
- - Creating Nav Menu
- - Creating The Banner
- - Adding Content to Page
- - Creating The Sidebar
- - Building Page Footer
- - Adding Copyright
-
-## CSS & CSS3 - Fundamentals 
-
-- Internal CSS
-- External CSS
-- Box Model in CSS
-- Targeting Elements in CSS
-- Designing with Box Model
+- Introduction
+- Syntax
+- Element Styling
+- padding
+- margin
+- Background 
+- border
+- display
+- Group Multiple Selectors
+- Dimensions – Width And Height
+- Opacity
+- Position
+- Z-Index
+- ...
 
 ## Project HTML5 & CSS3 Website
 
-- Building The Container
-- Building The Website Header
-- Creating The Nav Bar
-- Making Drop-Down Menu
-- Creating Image Slider
-- Making Content Holder
-- Creating Sidebar
-- Making Footer
-- Building The Container
-- Building The Website Header
-- Creating The Nav Bar
-- Making Drop-Down Menu
-- Creating Image Slider
-- Making Content Holder
-- Creating Sidebar
-- Making Footer
+- Portfolio
+- Our (cf2aa) website home page
 
 ## JavaScript Fundamentals
 
@@ -96,8 +74,9 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 - Working with Arrays
 - Numbers in JavaScript
 - Strings in JavaScript
-- Working with Dates Object
 - Objects in JavaScript
+- Working with Dates Object
+
 
 ## JavaSript DOM - Document Object Model
 
@@ -115,24 +94,17 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 
 - Debugging in JavaScript
 - Creating Modern Live Validation Forms
-- Minify & Validate JavaScript
 - Using JavaScript Libraries
-- Working with Modern JavaScript
-- Making Use Of Use Strict
 - JavaScript Bad Practices
-
-## ES6 
-
+- Working with Modern JavaScript
 - The let keyword
 - The const keyword
 - Arrow Functions
-- The ... Operator
-- For/of
+- The For/of Operator 
 - Map Objects
 - Set Objects
 - Classes
 - Promises
-- Symbol
 - Default Parameters
 - Function Rest Parameter
 - String.includes()
@@ -150,6 +122,7 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 - JavaScript Modules
 
 ## ReactJS getting Started
+
 - what is react 
 - Goals
 - Structure
@@ -162,6 +135,7 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 - Folder Structure
 
 ## React JS Fundamentals
+
 - First Component
 - Text Editor Setup
 - First Component in Detail
@@ -222,13 +196,14 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 - Matching Projects
 - Custom Hooks - useFetch
 ## Basic Projects
+
 - Birthday Reminder
 - Tours 
 - Reviews
 - Menu
 - Slider
-- Grocery Bud
 ## Big Projects
+
 - Cocktails 
 - Movies Data Base
 
