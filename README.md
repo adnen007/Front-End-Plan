@@ -121,6 +121,9 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 - Object entries
 - JavaScript Modules
 
+## Projects
+- TO do list Project HTML/CSS/JS 
+- Mini game Project HTML/CSS/JS 
 ## ReactJS getting Started
 
 - what is react 
