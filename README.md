@@ -230,7 +230,6 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 - Grocery Bud
 ## Big Projects
 - Cocktails 
-- E-commerce
 - Movies Data Base
 
 
