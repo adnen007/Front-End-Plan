@@ -1,6 +1,6 @@
 # description
 
-Do you want to learn web development and get a job in the tech industry ? Do you want to learn the latest technologies and become a great Front-end developer ? So what are you waiting !.This trainnigs was designed to be extremely beginner friendly. We will begin with the very basics of HTML and build a simple web page. And by the end of this training, you will be Job Ready. You will be able to develop and publish your own website and you will have a resume that will allow you to get your dream job! In our training we will focus on coding exercises and projects.Upon completing, you will have a solid portfolio of development projects to show potential employers!
+Do you want to learn web development and get a job in the tech industry ? Do you want to learn the latest technologies and become a great Front-end developer ? So what are you waiting !.This trainnig was designed to be extremely beginner friendly. We will begin with the very basics of HTML and build a simple web page. And by the end of this training, you will be Job Ready. You will be able to develop and publish your own website and you will have a resume that will allow you to get your dream job! In our training we will focus on coding exercises and projects.Upon completing, you will have a solid portfolio of development projects to show potential employers!
 
 # Who this course is for:
 
@@ -122,8 +122,8 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 - JavaScript Modules
 
 ## Projects
-- TO do list Project HTML/CSS/JS 
-- Mini game Project HTML/CSS/JS 
+- Create a To Do List (HTML/CSS/JS)
+- Create Mini game (HTML/CSS/JS) 
 ## ReactJS getting Started
 
 - what is react 
@@ -159,7 +159,6 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 
 ## React Hooks and Advanced Topics
 
-- Intro
 - Starter Project
 - Install Starter
 - Starter Overview
