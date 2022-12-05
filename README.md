@@ -1,6 +1,6 @@
 # description
 
-If you would like to learn web development and get a job in the tech industry, you are going to LOVE this Bootcamp! Learn HTML, CSS, JavaScript,react and more with over! This Bootcamp was designed to be extremely beginner friendly. We will begin with the very basics of HTML and build a simple web page. By the end of this course, you will be able to develop and publish your own website and you will have a resume that will allow you to get your dream job! In this course we will focus on coding exercises and projects.Upon completing this course, you will have a solid portfolio of development projects to show potential employers!
+Do you want to learn web development and get a job in the tech industry ? Do you want to learn the latest technologies and become a great Front-end developer ? So what are you waiting !.This trainnigs was designed to be extremely beginner friendly. We will begin with the very basics of HTML and build a simple web page. And by the end of this training, you will be Job Ready. You will be able to develop and publish your own website and you will have a resume that will allow you to get your dream job! In our training we will focus on coding exercises and projects.Upon completing, you will have a solid portfolio of development projects to show potential employers!
 
 # Who this course is for:
 
