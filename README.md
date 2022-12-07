@@ -11,7 +11,6 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 ## HTML
 
 - Elements && Browser
-- First Page
 - Doctype And Standard And Quirks Mode
 - Head && Nested Elements
 - Comments 
