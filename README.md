@@ -6,6 +6,16 @@ Do you want to learn web development and get a job in the tech industry ? Do you
 
  - Anyone who is interested to learn Front-End Web development from Scratch
  - Anyone who wants to start career in web development
+
+# what you will learn:
+
+ - HTML,
+ - CSS,
+ - Bootstrap,
+ - JavaScript,
+ - React,
+ - REST APIs,
+ - Github
  
 # Front-End-Plan (3 months || 102h )
 ## HTML
