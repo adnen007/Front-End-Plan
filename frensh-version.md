@@ -2,3 +2,14 @@
 - A qui s'adresse ce cours :
 Toute personne intéressée à apprendre le développement web Front End à partir de zéro .
 Toute personne souhaitant débuter sa carrière dans le développement web
+
+- Le programme de formation
+Votre formation comporte les modules suivants:
+
+- HTML,
+- CSS,
+- Bootstrap,
+- JavaScript,
+- React,
+- REST APIs,
+- Github
