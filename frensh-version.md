@@ -6,10 +6,10 @@ Toute personne souhaitant débuter sa carrière dans le développement web
 - Le programme de formation
 Votre formation comporte les modules suivants:
 
-- HTML,
-- CSS,
-- Bootstrap,
-- JavaScript,
-- React,
-- REST APIs,
-- Github
+  - HTML,
+  - CSS,
+  - Bootstrap,
+  - JavaScript,
+  - React,
+  - REST APIs,
+  - Github
